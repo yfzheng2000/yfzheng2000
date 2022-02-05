@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dr. Zheng, an image scientist.
 - 👀 I’m interested in image analysis, machine learning, deep learning/AI, face recognition, information fusion.
 - 🌱 I’m currently learning deep learning/AI technologies and applications.
-- 💞️ I’m looking to collaborate on any research or product project using deep learning/AI techniques (input=video/image, output=[clss, regression])
+- 💞️ I’m looking to collaborate on any research or product project using deep learning/AI techniques (input=video/image, output=[class, regression])
 - 📫 How to reach me: yfzheng2000@yahoo.com
 
 <!---
